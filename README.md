@@ -13,7 +13,7 @@ backend, web, and design — and keep it running in production.
 
 **What's live**
 
-- **Sendabox** — white-label logistics platform. 54,206 shipments processed across 9 courier
+- **Sendabox** — white-label logistics platform. 56,021 shipments processed across 9 courier
   companies. NestJS, PostgreSQL, Redis, Vue, Flutter. [sendabox.ai](https://www.sendabox.ai/)
 - **Ventura** — local discovery through a geo-ranked video feed, plus a separate app for
   business owners. 10,000+ downloads. Flutter, Firebase.
