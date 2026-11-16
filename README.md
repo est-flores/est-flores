@@ -24,9 +24,6 @@ backend, web, and design — and keep it running in production.
 - **BYRG** — native iOS game, built solo in Swift and SpriteKit. Live since 2020.
   [App Store](https://apps.apple.com/gt/app/byrg-addictive-reflex-game/id1503103765?l=en-GB)
 
-Most of this code lives in private repositories, which is why the contribution graph is
-busier than the repository list.
-
 **Stack:** TypeScript, NestJS, Node, Next.js, React, Vue, Flutter, Swift, Go, PostgreSQL, Redis
 
 **Portfolio:** [eflores.dev](https://www.eflores.dev)
